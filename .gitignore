@@ -5,7 +5,6 @@ SG90/.vscode
 SG90/build
 SG90/hal
 SG90/lib
-SG90/src
 SG90/.clang-format
 SG90/.eide.usr.ctx.json
 SG90/SG90.code-workspace
